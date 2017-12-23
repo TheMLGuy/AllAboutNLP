@@ -5,3 +5,4 @@ Tokenizer<br>
 Stemmer<br>
 Corpus, nltk.pos_tag<br>
 Stopwords<br>
+Chunking and chinking<br>
